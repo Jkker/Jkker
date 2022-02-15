@@ -16,7 +16,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jkker&layout=compact&theme=dracula)](https://github.com/Jkker/github-readme-stats)
 
 
-### 📫 How to reach me
+### 📫 How to Reach Me
 - Email: [me@jerrykjia.com](mailto:me@jerrykjia.com)
 - LinkedIn: [Tianqi (Jerry) Jia](https://www.linkedin.com/in/jerrykjia/)
 - Personal Site: [What's Up](https://www.jerrykjia.com/)
