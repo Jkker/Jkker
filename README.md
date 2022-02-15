@@ -5,8 +5,8 @@
 
 - Tianqi (Jerry) Jia
 - He/Him/His
-- Student at 🏫  New York University →, Class of 2023, [Computer Science and Economics (joint major)](https://cs.nyu.edu/home/undergrad/major_programs.html) + Minor in Psychology
-- Full-stack Web developer, Data Analyst, and Machine Learning developer 
+- Student at 🏫  [New York University](https://www.nyu.edu/), Class of 2023, [Computer Science and Economics (joint major)](https://cs.nyu.edu/home/undergrad/major_programs.html) + [Minor in Psychology](https://as.nyu.edu/content/nyu-as/as/departments/psychology/undergraduate/program-requirements.html)
+- Full-stack Web developer, Data Analyst, Machine Learning developer 
 - Former intern at [Tencent](https://intl.cloud.tencent.com/) & My DataWay Co.
 
 ### 📚 GitHub Stats
