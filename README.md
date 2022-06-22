@@ -10,10 +10,10 @@
 - Former intern at [Tencent](https://intl.cloud.tencent.com/) & My DataWay Co.
 
 ### 📚 GitHub Stats
-[![Jkker's GitHub stats](https://github-stats.jerrykjia.com/api?username=Jkker&theme=dracula)](https://github.com/Jkker/github-readme-stats)
+[![Jkker's GitHub stats](https://github-stats.jerrykjia.com/api?username=Jkker&theme=dracula&count_private=true)](https://github.com/Jkker/github-readme-stats)
 
 ### 💻 My Most Used Languages
-[![Top Langs](https://github-stats.jerrykjia.com/api/top-langs/?username=Jkker&layout=compact&theme=dracula)](https://github.com/Jkker/github-readme-stats)
+[![Top Langs](https://github-stats.jerrykjia.com/api/top-langs/?username=Jkker&theme=dracula&langs_count=6&layout=compact&count_private=true)](https://github.com/Jkker/github-readme-stats)
 
 
 ### 📫 How to Reach Me
