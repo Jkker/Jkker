@@ -17,7 +17,7 @@
 
 
 ### 📫 How to Reach Me
-- Email: [me@jerrykjia.com](mailto:j@erry.dev)
+- Email: [j@erry.dev](mailto:j@erry.dev)
 - LinkedIn: [Tianqi (Jerry) Jia](https://www.linkedin.com/in/jerrykjia/)
 - Site: [What's Up](https://www.jerrykjia.com/)
 
