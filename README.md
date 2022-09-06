@@ -17,10 +17,9 @@
 
 
 ### 📫 How to Reach Me
-- Email: [me@jerrykjia.com](mailto:me@jerrykjia.com)
+- Email: [me@jerrykjia.com](mailto:j@erry.dev)
 - LinkedIn: [Tianqi (Jerry) Jia](https://www.linkedin.com/in/jerrykjia/)
-- Personal Site: [What's Up](https://www.jerrykjia.com/)
-- Blog: [Jerry's Blog](https://blog.jerrykjia.com/)
+- Site: [What's Up](https://www.jerrykjia.com/)
 
 <!--
 **Jkker/Jkker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
